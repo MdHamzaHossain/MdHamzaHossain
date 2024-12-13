@@ -13,14 +13,14 @@ I also use __C++__ and at times __Python__ for *competitive programming*.
 # `Some Stats`
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=MdHamzaHossain&theme=monokai&hide_border=false&include_all_commits=true&border_radius=23"
+    srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=MdHamzaHossain&theme=monokai&hide_border=false&include_all_commits=true&border_radius=23"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=MdHamzaHossain&theme=gruvbox_light&hide_border=false&include_all_commits=true&border_radius=23"
+    srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=MdHamzaHossain&theme=gruvbox_light&hide_border=false&include_all_commits=true&border_radius=23"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdHamzaHossain&theme=vue-dark&hide_border=false&include_all_commits=true&border_radius=23" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MdHamzaHossain&theme=vue-dark&hide_border=false&include_all_commits=true&border_radius=23" />
 </picture>
 <picture>
   <source
