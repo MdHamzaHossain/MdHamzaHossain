@@ -2,7 +2,7 @@
 
 An aspiring CSE undergrad!\
 I am proficient in [Typescript](https://www.typescriptlang.org/) for development.\
-I also use __C++__ and at times __Python__ for *competitive programming*.
+I also use __C++__ and at times __Python__ for [*competitive programming*](https://github.com/MdHamzaHossain/competitive-programming).
 
 
 # `Contact Me`
