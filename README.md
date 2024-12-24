@@ -5,12 +5,14 @@ I am proficient in [Typescript](https://www.typescriptlang.org/) for development
 I also use __C++__ and at times __Python__ for [*competitive programming*](https://github.com/MdHamzaHossain/competitive-programming).
 
 
-# `Contact Me`
+# `Contacts`
 - <b>Facebook: [hamza.hossain.fb](https://www.facebook.com/hamza.hossain.fb/)
 - Discord: [hamzahossain](https://discord.com/users/953557729413333002)
 - Email: <a href="mailto@hamzahossainphone@gmail.com">hamzahossainphone@gmail.com</a> </b>
-> Feel free to contact me at any time!
+> Feel free to contact at any time!
+
 # `Some Stats`
+
 <picture>
   <source
     srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=MdHamzaHossain&theme=dracula&hide_border=false&include_all_commits=true&border_radius=23&fire=006CF0&ring=FFD700"
