@@ -24,7 +24,7 @@ I also use __C++__ and at times __Python__ for [*competitive programming*](https
     srcset="https://skillicons.dev/icons?i=arduino%2Ccpp%2Cdocker%2Cexpress%2Cgo%2Cgraphql%2Cjava%2Cjs%2Cts%2Ckotlin%2Cmysql%2Cnodejs%2Cpy%2Csvelte%2Cvue&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,docker,express,go,graphql,java,js,ts,kotlin,lua,mysql,nodejs,py,rust,svelte,tailwind,vue" />
+    <img src="https://skillicons.dev/icons?i=arduino%2Ccpp%2Cdocker%2Cexpress%2Cgo%2Cgraphql%2Cjava%2Cjs%2Cts%2Ckotlin%2Cmysql%2Cnodejs%2Cpy%2Csvelte%2Cvue" />
 </picture>
 
 <!---
