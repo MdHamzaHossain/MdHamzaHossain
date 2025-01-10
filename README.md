@@ -11,57 +11,31 @@ I also use __C++__ and at times __Python__ for [*competitive programming*](https
 <div align="center">
 
 ## `Contacts`
-</div>
 
-- <b>Facebook: [hamza.hossain.fb](https://www.facebook.com/hamza.hossain.fb/)
+</div>
+<b>
+
+- Facebook: [hamza.hossain.fb](https://www.facebook.com/hamza.hossain.fb/)
 - Discord: [hamzahossain](https://discord.com/users/953557729413333002)
-- Email: <a href="mailto@hamzahossainphone@gmail.com">hamzahossainphone@gmail.com</a> </b>
+- Email: [hamzahossainphone@gmail.com](mailto:hamzahossainphone@gmail.com)
+
+</b>
+
 > Feel free to contact at any time!
 
 <div align="center">
 
 ## `Technologies`
 
-<picture>
-  <source
-    src="https://skillicons.dev/icons?i=arduino%2Ccpp%2Cdocker%2Cexpress%2Cgo%2Cgraphql%2Cjava%2Cjs%2Cts%2Ckotlin%2Cmysql%2Cnodejs%2Cpy%2Csvelte%2Cvue"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://skillicons.dev/icons?i=arduino%2Ccpp%2Cdocker%2Cexpress%2Cgo%2Cgraphql%2Cjava%2Cjs%2Cts%2Ckotlin%2Cmysql%2Cnodejs%2Cpy%2Csvelte%2Cvue&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-    <img src="https://skillicons.dev/icons?i=arduino%2Ccpp%2Cdocker%2Cexpress%2Cgo%2Cgraphql%2Cjava%2Cjs%2Cts%2Ckotlin%2Cmysql%2Cnodejs%2Cpy%2Csvelte%2Cvue" />
-</picture>
+[![Skills dark](https://skillicons.dev/icons?i=arduino,cpp,docker,express,go,graphql,java,js,ts,kotlin,mysql,nodejs,py,svelte,vue#gh-dark-mode-only)](https://skillicons.dev/icons?i=arduino,cpp,docker,express,go,graphql,java,js,ts,kotlin,mysql,nodejs,py,svelte,vue#gh-dark-mode-only)
+[![Skills light](https://skillicons.dev/icons?i=arduino,cpp,docker,express,go,graphql,java,js,ts,kotlin,mysql,nodejs,py,svelte,vue&theme=light#gh-light-mode-only)](https://skillicons.dev/icons?i=arduino,cpp,docker,express,go,graphql,java,js,ts,kotlin,mysql,nodejs,py,svelte,vue&theme=light#gh-light-mode-only)
 
-<!---
- <img src="https://skillicons.dev/icons?i=arduino,cpp,docker,express,go,graphql,java,js,ts,kotlin,lua,mysql,nodejs,py,rust,svelte,tailwind,vue&theme=light">
---->
 ## `GitHub Stats`
 
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=MdHamzaHossain&theme=dracula&hide_border=false&include_all_commits=true&border_radius=23&fire=006CF0&ring=FFD700"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=MdHamzaHossain&theme=gruvbox_light&hide_border=false&include_all_commits=true&border_radius=23&fire=006CF0&ring=FFD700"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MdHamzaHossain&theme=vue-dark&hide_border=false&include_all_commits=true&border_radius=23&fire=006CF0&ring=FFD700" />
-</picture>
-<br>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamzaHossain&theme=dracula&show_icons=true&hide_border=false&layout=donut-vertical&border_radius=23&langs_count=50&exclude_repo=ATMEmulator"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamzaHossain&theme=gruvbox_light&show_icons=true&hide_border=false&layout=donut-vertical&border_radius=23&langs_count=50&exclude_repo=ATMEmulator"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamzaHossain&theme=gruvbox_light&show_icons=true&hide_border=false&layout=donut-vertical&border_radius=23&langs_count=50&exclude_repo=ATMEmulator" />
-</picture>
+[![Streak dark](https://github-readme-streak-stats-salesp07.vercel.app/?user=MdHamzaHossain&theme=dracula&hide_border=false&include_all_commits=true&border_radius=23&fire=006CF0&ring=FFD700#gh-dark-mode-only)](https://github-readme-streak-stats-salesp07.vercel.app/?user=MdHamzaHossain&theme=dracula&hide_border=false&include_all_commits=true&border_radius=23&fire=006CF0&ring=FFD700#gh-dark-mode-only)
+[![Streak dark](https://github-readme-streak-stats-salesp07.vercel.app/?user=MdHamzaHossain&theme=gruvbox_light&hide_border=false&include_all_commits=true&border_radius=23&fire=006CF0&ring=FFD700#gh-light-mode-only)](https://github-readme-streak-stats-salesp07.vercel.app/?user=MdHamzaHossain&theme=gruvbox_light&hide_border=false&include_all_commits=true&border_radius=23&fire=006CF0&ring=FFD700#gh-light-mode-only)\
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamzaHossain&theme=dracula&show_icons=true&hide_border=false&layout=donut-vertical&border_radius=23&langs_count=50&exclude_repo=ATMEmulator#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamzaHossain&theme=dracula&show_icons=true&hide_border=false&layout=donut-vertical&border_radius=23&langs_count=50&exclude_repo=ATMEmulator#gh-dark-mode-only)
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamzaHossain&theme=gruvbox_light&show_icons=true&hide_border=false&layout=donut-vertical&border_radius=23&langs_count=50&exclude_repo=ATMEmulator#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamzaHossain&theme=gruvbox_light&show_icons=true&hide_border=false&layout=donut-vertical&border_radius=23&langs_count=50&exclude_repo=ATMEmulator#gh-light-mode-only)
 </div>
 <!---
 MdHamzaHossain/MdHamzaHossain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
