@@ -17,7 +17,7 @@ I also use __C++__ and at times __Python__ for [*competitive programming*](https
 
 - Facebook: [hamza.hossain.fb](https://www.facebook.com/hamza.hossain.fb/)
 - Discord: [hamzahossain](https://discord.com/users/953557729413333002)
-- Email: [mailto@hamzahossainphone@gmail.com](hamzahossainphone@gmail.com)
+- Email: [hamzahossainphone@gmail.com](mailto:hamzahossainphone@gmail.com)
 
 </b>
 
