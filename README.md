@@ -2,16 +2,23 @@
 
 # Hamza Hossain
 
+</div>
+
 A keen CSE undergrad!\
 I am proficient in [Typescript](https://www.typescriptlang.org/) for development.\
 I also use __C++__ and at times __Python__ for [*competitive programming*](https://github.com/MdHamzaHossain/competitive-programming).
 
+<div align="center">
 
 ## `Contacts`
+</div>
+
 - <b>Facebook: [hamza.hossain.fb](https://www.facebook.com/hamza.hossain.fb/)
 - Discord: [hamzahossain](https://discord.com/users/953557729413333002)
 - Email: <a href="mailto@hamzahossainphone@gmail.com">hamzahossainphone@gmail.com</a> </b>
 > Feel free to contact at any time!
+
+<div align="center">
 
 ## `Technologies`
 
