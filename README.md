@@ -21,8 +21,6 @@ I also use __C++__ and at times __Python__ for [*competitive programming*](https
 
 </b>
 
-> Feel free to contact at any time!
-
 <div align="center">
 
 ## `Technologies`
