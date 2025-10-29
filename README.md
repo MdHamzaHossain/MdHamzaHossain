@@ -1,6 +1,6 @@
 <div align="center">
 
-# Md. Hamza Hossain
+# Hamza Hossain
 
 </div>
 
