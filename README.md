@@ -15,7 +15,6 @@ I also use __C++__ and at times __Python__ for [*competitive programming*](https
 </div>
 <b>
 
-- Facebook: [hamza.hossain.fb](https://www.facebook.com/hamza.hossain.fb/)
 - Discord: [hamzahossain](https://discord.com/users/953557729413333002)
 - Email: [hamzahossainphone@gmail.com](mailto:hamzahossainphone@gmail.com)
 
