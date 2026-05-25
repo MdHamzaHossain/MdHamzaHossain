@@ -8,7 +8,7 @@ Computer science student.\
 I am mainly proficient in [Typescript](https://www.typescriptlang.org/) for development.\
 I also use __C++__ and at times __Python__ for [*competitive programming*](https://github.com/MdHamzaHossain/competitive-programming).
 <!-- TODO write something about hardware -->
-
+<!-- TODO Write something about cad -->
 <div align="center">
 
 ## `Contacts`
